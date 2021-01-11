@@ -22,7 +22,10 @@ public class AxisBank extends BankInfo {
 		a.deposit();
 		System.out.println("hiiiihello Bagi");
 		System.out.println("hiiiihello world");
+		System.out.println("changes made by change2 and udated userstory");
+
 		System.out.println("changes made as per userstory");
+
 	}
 	
 
