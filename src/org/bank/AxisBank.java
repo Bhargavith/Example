@@ -20,6 +20,7 @@ public class AxisBank extends BankInfo {
 		System.out.print("************************************");
 		System.out.print("\n");
 		a.deposit();
+		System.out.println("hiiiihello Bagi");
 		System.out.println("hiiiihello world");
 	}
 	
