@@ -13,6 +13,8 @@ public class BankInfo {
 	}
 	public void deposit() {
 		System.out.println("BankInfo Deposit account 10% intrest");
+		System.out.println("changes made by change 2 ");
+		System.out.println("hiiiiiiiiiiiiiiiiiiii");
 
 	}
 }
